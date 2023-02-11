@@ -1,5 +1,7 @@
 # Virus Simulation in Python & Pygame
 
+![img](./screenshot.png)
+
 ## Requirements
 ```
 pygame
